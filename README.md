@@ -1,2 +1,2 @@
 # Basic
-Documentations from the embedded system course.
+Documentations from all the training sessions are stored here.
