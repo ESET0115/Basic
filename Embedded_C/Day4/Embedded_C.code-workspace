@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Embedded_C",
+			"path": ".."
+		},
+		{
+			"name": "Blinking_light_sim",
+			"path": "Blinking_light_sim"
+		}
+	],
+	"settings": {}
+}
