@@ -29,3 +29,55 @@ INSERT INTO orders VALUES (97, 1, 2)
 INSERT INTO orders VALUES (98, 4, 1)
 INSERT INTO orders VALUES (99, 3, 4)
 INSERT INTO orders VALUES (100, 2, 3)
+
+/*INNER JOIN*/
+SELECT *
+FROM users ut
+INNER JOIN orders ot
+ON ut.users_id = ot.users_id
+
+/*LEFT JOIN*/
+SELECT *
+FROM users ut
+LEFT JOIN orders ot
+ON ut.users_id = ot.users_id
+
+/*RIGHT JOIN*/
+SELECT *
+FROM users ut
+RIGHT JOIN orders ot
+ON ut.users_id = ot.users_id
+
+/*OUTER JOIN*/
+SELECT *
+FROM users ut
+FULL OUTER JOIN orders ot
+ON ut.users_id = ot.users_id
+
+INSERT INTO users values (5, 'manu@gmail.com', 'Manu')
+INSERT INTO users values (6, 'sam@gmail.com', 'Sam')
+INSERT INTO users values (7, 'shreyansh@gmail.com', 'Shreyansh')
+
+INSERT INTO books values (5, 'learning', 99000)
+INSERT INTO books values (6, 'Quran', 911)
+INSERT INTO books values (7, 'Wedding', 2300)
+
+INSERT INTO orders values (101, 5, 7)
+INSERT INTO orders values (102, 6, 5)
+INSERT INTO orders values (103, 7, 6)
+
+
+/* Find all the books, all the users, and all the orders */
+SELECT * FROM (books b FULL OUTER JOIN orders o ON b.product_id=o.product_id)
+FULL OUTER JOIN users u ON u.users_id=o.users_id
+
+/* Find all orders */
+SELECT o.order_no, b.product_id, b.title, b.price FROM books b FULL OUTER JOIN orders o ON b.product_id=o.product_id
+
+/* Find particular user who has order these books */
+SELECT b.price, u.users_name, b.title FROM (books b INNER JOIN orders o ON b.product_id=o.product_id)
+INNER JOIN users u ON u.users_id=o.users_id WHERE b.title='Quran' OR b.title='Wedding' OR b.title='Virat Kohli Nudes'
+
+/* Find books users has order*/
+SELECT u.users_id, u.users_name, u.users_email, b.title FROM (books b INNER JOIN orders o ON b.product_id=o.product_id)
+INNER JOIN users u ON u.users_id=o.users_id 
