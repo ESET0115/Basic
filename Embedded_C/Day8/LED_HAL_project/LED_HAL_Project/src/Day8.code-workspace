@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "LED_HAL_Project",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

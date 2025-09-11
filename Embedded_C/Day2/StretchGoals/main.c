@@ -33,7 +33,7 @@ int main() {
         // Conditional statement (if-else)
         // Checks if the current counter value is less than the button pressed state
         if (button_pressed == 1) {
-
+            
             // Simulate turning LED ON (e.g., set pin high)
             printf("LED ON (Counter: %d)\n", counter); 	// For simulation
             delay_ms(200); 	// Delay for 200 milliseconds
