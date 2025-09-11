@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Workspace\Training\Basic\DOT NET\Class exercise\First\obj\Debug\net8.0\First.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Workspace\Training\Basic\DOT NET\Class exercise\First\obj\Debug\net8.0\First.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Workspace\Training\Basic\DOT NET\Class exercise\First\obj\Debug\net8.0\First.AssemblyInfo.cs
+C:\Users\HP\Desktop\Workspace\Training\Basic\DOT NET\Class exercise\First\obj\Debug\net8.0\First.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Workspace\Training\Basic\DOT NET\Class exercise\First\obj\Debug\net8.0\First.sourcelink.json
+C:\Users\HP\Desktop\Workspace\Training\Basic\DOT NET\Class exercise\First\bin\Debug\net8.0\First.exe
+C:\Users\HP\Desktop\Workspace\Training\Basic\DOT NET\Class exercise\First\bin\Debug\net8.0\First.deps.json
+C:\Users\HP\Desktop\Workspace\Training\Basic\DOT NET\Class exercise\First\bin\Debug\net8.0\First.runtimeconfig.json
+C:\Users\HP\Desktop\Workspace\Training\Basic\DOT NET\Class exercise\First\bin\Debug\net8.0\First.dll
+C:\Users\HP\Desktop\Workspace\Training\Basic\DOT NET\Class exercise\First\bin\Debug\net8.0\First.pdb
+C:\Users\HP\Desktop\Workspace\Training\Basic\DOT NET\Class exercise\First\obj\Debug\net8.0\First.dll
+C:\Users\HP\Desktop\Workspace\Training\Basic\DOT NET\Class exercise\First\obj\Debug\net8.0\refint\First.dll
+C:\Users\HP\Desktop\Workspace\Training\Basic\DOT NET\Class exercise\First\obj\Debug\net8.0\First.pdb
+C:\Users\HP\Desktop\Workspace\Training\Basic\DOT NET\Class exercise\First\obj\Debug\net8.0\First.genruntimeconfig.cache
+C:\Users\HP\Desktop\Workspace\Training\Basic\DOT NET\Class exercise\First\obj\Debug\net8.0\ref\First.dll
