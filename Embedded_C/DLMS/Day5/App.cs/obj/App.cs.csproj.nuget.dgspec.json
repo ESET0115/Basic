@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\Workspace\\Training\\Basic\\Embedded_C\\DLMS\\Day5\\App.cs\\App.cs.csproj": {}
+    "c:\\Users\\HP\\Desktop\\Workspace\\Training\\Basic\\Embedded_C\\DLMS\\Day5\\App.cs\\App.cs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\Workspace\\Training\\Basic\\Embedded_C\\DLMS\\Day5\\App.cs\\App.cs.csproj": {
+    "c:\\Users\\HP\\Desktop\\Workspace\\Training\\Basic\\Embedded_C\\DLMS\\Day5\\App.cs\\App.cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Workspace\\Training\\Basic\\Embedded_C\\DLMS\\Day5\\App.cs\\App.cs.csproj",
+        "projectUniqueName": "c:\\Users\\HP\\Desktop\\Workspace\\Training\\Basic\\Embedded_C\\DLMS\\Day5\\App.cs\\App.cs.csproj",
         "projectName": "App.cs",
-        "projectPath": "C:\\Users\\HP\\Desktop\\Workspace\\Training\\Basic\\Embedded_C\\DLMS\\Day5\\App.cs\\App.cs.csproj",
+        "projectPath": "c:\\Users\\HP\\Desktop\\Workspace\\Training\\Basic\\Embedded_C\\DLMS\\Day5\\App.cs\\App.cs.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\Workspace\\Training\\Basic\\Embedded_C\\DLMS\\Day5\\App.cs\\obj\\",
+        "outputPath": "c:\\Users\\HP\\Desktop\\Workspace\\Training\\Basic\\Embedded_C\\DLMS\\Day5\\App.cs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Workspace\Training\Basic\Embedded_C\DLMS\Day5\App.cs\bin\Debug\net8.0\App.cs.exe
+C:\Users\HP\Desktop\Workspace\Training\Basic\Embedded_C\DLMS\Day5\App.cs\bin\Debug\net8.0\App.cs.deps.json
+C:\Users\HP\Desktop\Workspace\Training\Basic\Embedded_C\DLMS\Day5\App.cs\bin\Debug\net8.0\App.cs.runtimeconfig.json
+C:\Users\HP\Desktop\Workspace\Training\Basic\Embedded_C\DLMS\Day5\App.cs\bin\Debug\net8.0\App.cs.dll
+C:\Users\HP\Desktop\Workspace\Training\Basic\Embedded_C\DLMS\Day5\App.cs\bin\Debug\net8.0\App.cs.pdb
+C:\Users\HP\Desktop\Workspace\Training\Basic\Embedded_C\DLMS\Day5\App.cs\obj\Debug\net8.0\App.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Workspace\Training\Basic\Embedded_C\DLMS\Day5\App.cs\obj\Debug\net8.0\App.cs.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Workspace\Training\Basic\Embedded_C\DLMS\Day5\App.cs\obj\Debug\net8.0\App.cs.AssemblyInfo.cs
+C:\Users\HP\Desktop\Workspace\Training\Basic\Embedded_C\DLMS\Day5\App.cs\obj\Debug\net8.0\App.cs.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Workspace\Training\Basic\Embedded_C\DLMS\Day5\App.cs\obj\Debug\net8.0\App.cs.sourcelink.json
+C:\Users\HP\Desktop\Workspace\Training\Basic\Embedded_C\DLMS\Day5\App.cs\obj\Debug\net8.0\App.cs.dll
+C:\Users\HP\Desktop\Workspace\Training\Basic\Embedded_C\DLMS\Day5\App.cs\obj\Debug\net8.0\refint\App.cs.dll
+C:\Users\HP\Desktop\Workspace\Training\Basic\Embedded_C\DLMS\Day5\App.cs\obj\Debug\net8.0\App.cs.pdb
+C:\Users\HP\Desktop\Workspace\Training\Basic\Embedded_C\DLMS\Day5\App.cs\obj\Debug\net8.0\App.cs.genruntimeconfig.cache
+C:\Users\HP\Desktop\Workspace\Training\Basic\Embedded_C\DLMS\Day5\App.cs\obj\Debug\net8.0\ref\App.cs.dll
