@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\Workspace\Training\Basic\DOT NET\Class exercise\Assessment2\obj\Debug\net8.0\Assessment2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Workspace\Training\Basic\DOT NET\Class exercise\Assessment2\obj\Debug\net8.0\Assessment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Workspace\Training\Basic\DOT NET\Class exercise\Assessment2\obj\Debug\net8.0\Assessment2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Workspace\Training\Basic\DOT NET\Class exercise\Assessment2\obj\Debug\net8.0\Assessment2.AssemblyInfo.cs
+C:\Users\HP\Desktop\Workspace\Training\Basic\DOT NET\Class exercise\Assessment2\obj\Debug\net8.0\Assessment2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Workspace\Training\Basic\DOT NET\Class exercise\Assessment2\obj\Debug\net8.0\Assessment2.sourcelink.json
